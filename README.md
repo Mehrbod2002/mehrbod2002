@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for buildin
 ## Connect with Me
 
 - GitHub: [github.com/mehrbod2002](https://github.com/mehrbod2002)
-- LinkedIn: [linkedin.com/in/amir-hossein-akhlaghpour-84676392](linkedin.com/in/amir-hossein-akhlaghpour-84676392)
+- LinkedIn: [https://linkedin.com/in/amir-hossein-akhlaghpour-84676392](https://linkedin.com/in/amir-hossein-akhlaghpour-84676392)
 - Email: [m9.akhlaghpoor@gmail.com](mailto:m9.akhlaghpoor@gmail.com)
 
 Looking forward to connecting with fellow developers and exploring exciting opportunities!
