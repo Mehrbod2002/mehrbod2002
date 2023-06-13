@@ -25,8 +25,8 @@ Looking forward to connecting with fellow developers and exploring exciting oppo
 
 ## Github Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehrbod2002&show_icons=true&theme=radical)
-
+<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehrbod2002&show_icons=true&theme=radical)
+ -->
 ## Stats
 <div>
 <img height=300 width=400 src="https://wakatime.com/share/@e5595a3f-1ffe-4653-bd44-86e167479251/a023d13d-73d4-4077-8930-f4aa065ef9ad.png" />
