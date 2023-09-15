@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for buildin
 
 ## Skills and Technologies
 
-- Programming languages: Rust, Golamg, Python, JavaScript
+- Programming languages: Rust, Golang, Python, JavaScript
 - Web Development: JavaScript, React, Node.js
 - Databases: SQL, MongoDB
 - Version Control: Git, GitHub
