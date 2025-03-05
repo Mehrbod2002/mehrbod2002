@@ -2,6 +2,11 @@
 
 Good to have you here :)
 
+## Connect with Me
+
+- LinkedIn: [https://linkedin.com/in/amir-hossein-akhlaghpour-84676392](https://linkedin.com/in/amir-hossein-akhlaghpour-84676392)
+- Email: [m9.akhlaghpoor@gmail.com](mailto:m9.akhlaghpoor@gmail.com)
+
 <!-- 
 ## Github Stats
 
